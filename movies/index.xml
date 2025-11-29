@@ -2,17 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Movies on 影视资源分享平台</title>
-    <link>http://localhost:14310/movies/</link>
+    <link>http://localhost:12992/movies/</link>
     <description>Recent content in Movies on 影视资源分享平台</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <atom:link href="http://localhost:14310/movies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:12992/movies/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>经典电影资源合集</title>
-      <link>http://localhost:14310/movies/example_movie/</link>
+      <title></title>
+      <link>http://localhost:12992/movies/example_movie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14310/movies/example_movie/</guid>
-      <description>精选经典电影资源，包含多种观看和下载渠道</description>
+      <guid>http://localhost:12992/movies/example_movie/</guid>
+      <description>&lt;h1 id=&#34;经典电影资源合集&#34;&gt;经典电影资源合集&lt;/h1&gt;
+&lt;h3 id=&#34;1-肖申克的救赎&#34;&gt;1. 肖申克的救赎&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://v.qq.com/x/cover/mzc002002563b5h.html&#34;&gt;阿里云盘&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alipan.com/s/xxx&#34;&gt;百度云盘&lt;/a&gt;
+提取码：1234&lt;/p&gt;
+&lt;h2 id=&#34;2-阿甘正传&#34;&gt;2. 阿甘正传&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：爱奇艺&lt;br&gt;
+&lt;a href=&#34;https://www.iqiyi.com/v_19rro8q1y4.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：百度网盘&lt;br&gt;
+&lt;a href=&#34;https://pan.baidu.com/s/xxx&#34;&gt;下载链接&lt;/a&gt;
+提取码：5678&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-泰坦尼克号&#34;&gt;3. 泰坦尼克号&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道-1&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：优酷视频&lt;br&gt;
+&lt;a href=&#34;https://v.youku.com/v_show/id_xxx.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：115网盘&lt;br&gt;
+&lt;a href=&#34;https://115.com/s/xxx&#34;&gt;下载链接&lt;/a&gt;
+提取码：abcd&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

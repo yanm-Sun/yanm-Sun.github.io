@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "id": "1",
+      "title": "example movie",
+      "content": "\n经典电影资源合集\n\n1. 肖申克的救赎\n  阿里云盘\n  \n  百度云盘\n  提取码：1234\n\n2. 阿甘正传\n\n资源渠道\n- 渠道1：爱奇艺  \n  立即观看\n- 渠道2：百度网盘  \n  下载链接\n  提取码：5678\n\n3. 泰坦尼克号\n\n资源渠道\n- 渠道1：优酷视频  \n  立即观看\n- 渠道2：115网盘  \n  下载链接\n  提取码：abcd",
+      "url": "/movies/example_movie/",
+      "type": "电影",
+      "resource_links": [],
+      "third_level_headings": [
+        {
+          "title": "1. 肖申克的救赎",
+          "content": "[阿里云盘](https://v.qq.com/x/cover/mzc002002563b5h.html)\n  \n  [百度云盘](https://www.alipan.com/s/xxx)\n  提取码：1234"
+        },
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：爱奇艺  \n  [立即观看](https://www.iqiyi.com/v_19rro8q1y4.html)\n- 渠道2：百度网盘  \n  [下载链接](https://pan.baidu.com/s/xxx)\n  提取码：5678"
+        },
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：优酷视频  \n  [立即观看](https://v.youku.com/v_show/id_xxx.html)\n- 渠道2：115网盘  \n  [下载链接](https://115.com/s/xxx)\n  提取码：abcd"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": " default",
+      "content": "电视剧资源合集\n\n狂飙\n\n- 渠道1：爱奇艺  \n  立即观看\n- 渠道2：腾讯视频  \n  立即观看\n\n2. 三体\n\n资源渠道\n- 渠道1：腾讯视频  \n  立即观看\n- 渠道2：B站  \n  立即观看\n\n3. 长安三万里\n\n资源渠道\n- 渠道1：优酷  \n  立即观看\n- 渠道2：爱奇艺  \n  立即观看\n\n4. 山河令\n\n资源渠道\n- 渠道1：优酷  \n  立即观看\n- 渠道2：腾讯视频  \n  立即观看\n\n5. 开端\n\n资源渠道\n- 渠道1：腾讯视频  \n  立即观看\n- 渠道2：优酷  \n  立即观看",
+      "url": "/tvshows/_default/",
+      "type": "电视剧",
+      "resource_links": [],
+      "third_level_headings": [
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：腾讯视频  \n  [立即观看](https://v.qq.com/x/cover/mzc00200772077h.html)\n- 渠道2：B站  \n  [立即观看](https://www.bilibili.com/bangumi/play/ep474847)"
+        },
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：优酷  \n  [立即观看](https://v.youku.com/v_show/id_XNTEzODI3NTk2OA==.html)\n- 渠道2：爱奇艺  \n  [立即观看](https://www.iqiyi.com/v_19ru1v9h0w8.html)"
+        },
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：优酷  \n  [立即观看](https://v.youku.com/v_show/id_XNTE4NDU4MDE3Mg==.html)\n- 渠道2：腾讯视频  \n  [立即观看](https://v.qq.com/x/cover/mzc002005p9n4qy.html)"
+        },
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：腾讯视频  \n  [立即观看](https://v.qq.com/x/cover/mzc002005m2v8c0.html)\n- 渠道2：优酷  \n  [立即观看](https://v.youku.com/v_show/id_XNTQxNzc4NDg5Mg==.html)"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "new movie",
+      "content": "资源合集\n\n1. 资源标题示例\n\n资源渠道\n- 渠道1：平台名称  \n  立即观看\n- 渠道2：网盘名称  \n  下载链接  \n  提取码：xxxx\n\n2. 资源标题示例2\n\n资源渠道\n- 渠道1：平台名称  \n  立即观看\n- 渠道2：网盘名称  \n  下载链接  \n  提取码：xxxx\n\n3. 资源标题示例3\n\n资源渠道\n- 渠道1：平台名称  \n  立即观看\n- 渠道2：网盘名称  \n  下载链接  \n  提取码：xxxx",
+      "url": "/anime/new_movie/",
+      "type": "动漫",
+      "resource_links": [],
+      "third_level_headings": [
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：平台名称  \n  [立即观看](https://example.com/video1)\n- 渠道2：网盘名称  \n  [下载链接](https://example.com/download1)  \n  提取码：xxxx"
+        },
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：平台名称  \n  [立即观看](https://example.com/video2)\n- 渠道2：网盘名称  \n  [下载链接](https://example.com/download2)  \n  提取码：xxxx"
+        },
+        {
+          "title": "资源渠道",
+          "content": "- 渠道1：平台名称  \n  [立即观看](https://example.com/video3)\n- 渠道2：网盘名称  \n  [下载链接](https://example.com/download3)  \n  提取码：xxxx"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2025-11-29"
+}

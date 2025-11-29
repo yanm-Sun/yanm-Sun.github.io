@@ -21,6 +21,13 @@ header {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* 确保导航链接在移动端菜单中有正确的定位 */
+.nav-links {
+  /* 确保移动端菜单在点击时能正确显示 */
+  transition: left 0.3s ease;
+  position: fixed;
+}
+
 /* 全局搜索框样式 */
 .global-search-container {
   background-color: #2d2d2d;
