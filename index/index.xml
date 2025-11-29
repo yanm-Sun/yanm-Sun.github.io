@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Indices on 影视资源分享平台</title>
-    <link>http://localhost:12992/index/</link>
+    <link>http://localhost:8655/index/</link>
     <description>Recent content in Indices on 影视资源分享平台</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <atom:link href="http://localhost:12992/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8655/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>欢迎访问资源站</title>
-      <link>http://localhost:12992/index/welcome/</link>
+      <link>http://localhost:8655/index/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:12992/index/welcome/</guid>
+      <guid>http://localhost:8655/index/welcome/</guid>
       <description>这里是我们的资源导航页，提供各种影视资源下载链接</description>
     </item>
   </channel>

@@ -238,6 +238,7 @@ function convertMarkdownToHtml(text) {
 async function performSearch(searchTerm) {
   if (!searchTerm) return;
   
+  // 索引文件路径，现在指向public/data目录
   const indexFile = '/data/resources_index.json';
   console.log('开始搜索，搜索词:', searchTerm);
   console.log('尝试加载索引文件:', indexFile);

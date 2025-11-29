@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:12992/tvshows/_default/</loc>
+    <loc>http://localhost:8655/tvshows/_default/</loc>
   </url><url>
-    <loc>http://localhost:12992/anime/new_movie/</loc>
+    <loc>http://localhost:8655/anime/new_movie/</loc>
   </url><url>
-    <loc>http://localhost:12992/movies/example_movie/</loc>
+    <loc>http://localhost:8655/movies/example_movie/</loc>
   </url><url>
-    <loc>http://localhost:12992/anime/</loc>
+    <loc>http://localhost:8655/anime/</loc>
   </url><url>
-    <loc>http://localhost:12992/categories/</loc>
+    <loc>http://localhost:8655/categories/</loc>
   </url><url>
-    <loc>http://localhost:12992/genres/</loc>
+    <loc>http://localhost:8655/genres/</loc>
   </url><url>
-    <loc>http://localhost:12992/index/</loc>
+    <loc>http://localhost:8655/index/</loc>
   </url><url>
-    <loc>http://localhost:12992/movies/</loc>
+    <loc>http://localhost:8655/movies/</loc>
   </url><url>
-    <loc>http://localhost:12992/tags/</loc>
+    <loc>http://localhost:8655/tags/</loc>
   </url><url>
-    <loc>http://localhost:12992/tvshows/</loc>
+    <loc>http://localhost:8655/tvshows/</loc>
   </url><url>
-    <loc>http://localhost:12992/years/</loc>
+    <loc>http://localhost:8655/years/</loc>
   </url><url>
-    <loc>http://localhost:12992/</loc>
+    <loc>http://localhost:8655/</loc>
   </url><url>
-    <loc>http://localhost:12992/index/welcome/</loc>
+    <loc>http://localhost:8655/index/welcome/</loc>
   </url>
 </urlset>
