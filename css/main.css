@@ -172,6 +172,80 @@ nav {
   padding: 20px;
 }
 
+/* 首页分类导航样式 */
+.home-categories {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.categories-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+    text-decoration: none;
+    color: #333;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.category-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* 分类图标样式 */
+.category-card.movie .category-icon {
+    background-color: #ff6b6b;
+    border-radius: 50%;
+}
+
+.category-card.tvshow .category-icon {
+    background-color: #4ecdc4;
+    border-radius: 50%;
+}
+
+.category-card.anime .category-icon {
+    background-color: #ffe66d;
+    border-radius: 50%;
+}
+
+.category-card.variety .category-icon {
+    background-color: #1a535c;
+    border-radius: 50%;
+}
+
+.category-name {
+    font-size: 16px;
+    font-weight: 500;
+}
+
 /* index内容区域样式 */
 .index-content-container {
   background-color: white;
