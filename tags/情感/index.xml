@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>情感 on 影视资源分享平台</title>
+    <link>http://localhost:13503/tags/%E6%83%85%E6%84%9F/</link>
+    <description>Recent content in 情感 on 影视资源分享平台</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:13503/tags/%E6%83%85%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四喜</title>
+      <link>http://localhost:13503/tvshows/si-xi/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:13503/tvshows/si-xi/</guid>
+      <description>《四喜》讲述了都市年轻人的爱情与事业故事，充满温馨与欢笑。</description>
+    </item>
+  </channel>
+</rss>

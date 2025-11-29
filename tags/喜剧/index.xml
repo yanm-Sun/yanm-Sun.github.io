@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>喜剧 on 影视资源分享平台</title>
+    <link>http://localhost:13503/tags/%E5%96%9C%E5%89%A7/</link>
+    <description>Recent content in 喜剧 on 影视资源分享平台</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:13503/tags/%E5%96%9C%E5%89%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四喜</title>
+      <link>http://localhost:13503/movies/si-xi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:13503/movies/si-xi/</guid>
+      <description>《四喜》是一部现代都市爱情喜剧电影，讲述了四个年轻人在都市生活中的爱情故事。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>资源合集 - 影视资源分享平台</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <style>
+         
+        .menu-toggle {
+            display: none;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: white;
+        }
+        
+        @media (max-width: 768px) {
+            .menu-toggle {
+                display: block;
+            }
+            
+            .nav-links {
+                position: fixed;
+                top: 60px;
+                left: -100%;
+                width: 100%;
+                height: calc(100vh - 60px);
+                background-color: #1a1a1a;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                transition: left 0.3s ease;
+                z-index: 999;
+            }
+            
+            .nav-links.active {
+                left: 0;
+            }
+            
+            nav {
+                justify-content: space-between;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo"><a href="/">影视资源分享平台</a></div>
+            <button class="menu-toggle" aria-label="菜单">☰</button>
+            <div class="nav-links">
+                <a href="/movies/">电影</a>
+                <a href="/shortplays/">短剧</a>
+                <a href="/koreanjapanese/">日韩剧</a>
+                <a href="/anime/">动漫</a>
+                <a href="/variety/">综艺</a>
+                <a href="/western/">欧美剧</a>
+            </div>
+        </nav>
+        
+        <div class="global-search-container">
+            <div class="container">
+                <input type="text" id="global-search" placeholder="搜索资源..." class="global-search-input">
+                <button id="global-search-button" class="global-search-btn">搜索</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        
+<div class="container">
+  <div class="resource-page fade-in">
+    
+    <div class="simple-header">
+      <h1 class="resource-title">资源合集</h1>
+    </div>
+    
+    
+    
+    
+    
+    
+    <div class="content-details">
+      <div class="content-text">
+        <h1 id="资源合集">资源合集</h1>
+<h2 id="1-资源标题示例">1. 资源标题示例</h2>
+<h3 id="资源渠道">资源渠道</h3>
+<ul>
+<li>渠道1：平台名称<br>
+<a href="https://example.com/video1">立即观看</a></li>
+<li>渠道2：网盘名称<br>
+<a href="https://example.com/download1">下载链接</a><br>
+提取码：xxxx</li>
+</ul>
+<h2 id="2-资源标题示例2">2. 资源标题示例2</h2>
+<h3 id="资源渠道-1">资源渠道</h3>
+<ul>
+<li>渠道1：平台名称<br>
+<a href="https://example.com/video2">立即观看</a></li>
+<li>渠道2：网盘名称<br>
+<a href="https://example.com/download2">下载链接</a><br>
+提取码：xxxx</li>
+</ul>
+<h2 id="3-资源标题示例3">3. 资源标题示例3</h2>
+<h3 id="资源渠道-2">资源渠道</h3>
+<ul>
+<li>渠道1：平台名称<br>
+<a href="https://example.com/video3">立即观看</a></li>
+<li>渠道2：网盘名称<br>
+<a href="https://example.com/download3">下载链接</a><br>
+提取码：xxxx</li>
+</ul>
+
+      </div>
+    </div>
+    
+    
+    
+    <div class="bg-gray-50 p-4 rounded-lg text-sm text-gray-600 mt-8">
+      <p>免责声明：本站资源均来自互联网公开渠道，仅提供学习和交流使用，请在下载后24小时内删除。</p>
+    </div>
+  </div>
+</div>
+
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-column">
+                <h3>影视资源分享平台</h3>
+                <p>提供最新、最全的影视资源分享</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 影视资源分享平台. 本站资源仅供学习交流，请在24小时内删除。</p>
+        </div>
+    </footer>
+    
+    
+    <script src="/js/search.js"></script>
+</body>
+</html>

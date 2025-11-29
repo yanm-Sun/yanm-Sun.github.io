@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>悬疑 on 影视资源分享平台</title>
+    <link>http://localhost:13503/tags/%E6%82%AC%E7%96%91/</link>
+    <description>Recent content in 悬疑 on 影视资源分享平台</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:13503/tags/%E6%82%AC%E7%96%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>唐朝诡事录3</title>
+      <link>http://localhost:13503/movies/tang-chao-gui-shi-lu-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:13503/movies/tang-chao-gui-shi-lu-3/</guid>
+      <description>《唐朝诡事录3》是一部古装悬疑探案剧，讲述了唐朝时期的诡异案件和破解过程。</description>
+    </item>
+  </channel>
+</rss>

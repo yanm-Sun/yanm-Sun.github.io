@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=13503&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>轻喜剧 - 影视资源分享平台</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <style>
+         
+        .menu-toggle {
+            display: none;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: white;
+        }
+        
+        @media (max-width: 768px) {
+            .menu-toggle {
+                display: block;
+            }
+            
+            .nav-links {
+                position: fixed;
+                top: 60px;
+                left: -100%;
+                width: 100%;
+                height: calc(100vh - 60px);
+                background-color: #1a1a1a;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                transition: left 0.3s ease;
+                z-index: 999;
+            }
+            
+            .nav-links.active {
+                left: 0;
+            }
+            
+            nav {
+                justify-content: space-between;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo"><a href="/">影视资源分享平台</a></div>
+            <button class="menu-toggle" aria-label="菜单">☰</button>
+            <div class="nav-links">
+                <a href="/movies/">电影</a>
+                <a href="/tvshows/">电视剧</a>
+                <a href="/anime/">动漫</a>
+                <a href="/variety/">综艺</a>
+            </div>
+        </nav>
+        
+        <div class="global-search-container">
+            <div class="container">
+                <input type="text" id="global-search" placeholder="搜索资源..." class="global-search-input">
+                <button id="global-search-button" class="global-search-btn">搜索</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        
+<div class="container">
+  
+  <div class="list-header mb-6">
+    <h1 class="list-title">轻喜剧</h1>
+    <p class="text-gray-600 mb-4">浏览此分类下的所有资源</p>
+
+    
+    <div class="search-container">
+      <input type="text" id="resource-search" placeholder="搜索资源..." class="search-input">
+      <button class="search-btn">搜索</button>
+    </div>
+
+    
+    <div class="filter-bar mt-4">
+      <button class="filter-btn active">全部</button>
+      <button class="filter-btn">最新添加</button>
+    </div>
+  </div>
+
+  
+  <div class="simple-list">
+    
+      
+      <div class="list-item fade-in" style="animation-delay: 0ms;">
+        <div class="list-content">
+          <h2 class="list-item-title">
+            
+              
+              <a href="https://pan.baidu.com/s/1xm0QD6Z7DvaZc66-PqTBxw" target="_blank" class="title-link">四喜</a>
+            
+          </h2>
+          
+          <div class="item-links">
+            
+            <a href="https://pan.baidu.com/s/1xm0QD6Z7DvaZc66-PqTBxw" target="_blank" class="resource-link">
+              百度网盘
+            </a>
+            
+            <a href="https://pan.quark.cn/s/000f635397c6" target="_blank" class="resource-link">
+              夸克网盘
+            </a>
+            
+          </div>
+          
+        </div>
+      </div>
+      
+    
+  </div>
+
+  
+  
+</div>
+
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-column">
+                <h3>影视资源分享平台</h3>
+                <p>提供最新、最全的影视资源分享</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 影视资源分享平台. 本站资源仅供学习交流，请在24小时内删除。</p>
+        </div>
+    </footer>
+    
+    
+    <script src="/js/search.js"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>影视资源分享平台</title>
+    <link>http://localhost:14310/</link>
+    <description>Recent content on 影视资源分享平台</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:14310/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>电视剧资源合集</title>
+      <link>http://localhost:14310/tvshows/_default/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:14310/tvshows/_default/</guid>
+      <description>&lt;h1 id=&#34;电视剧资源合集&#34;&gt;电视剧资源合集&lt;/h1&gt;
+&lt;h2 id=&#34;狂飙&#34;&gt;狂飙&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：爱奇艺&lt;br&gt;
+&lt;a href=&#34;https://www.iqiyi.com/v_19rsu11i98o.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：腾讯视频&lt;br&gt;
+&lt;a href=&#34;https://v.qq.com/x/cover/mzc002006n5x41x.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-三体&#34;&gt;2. 三体&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：腾讯视频&lt;br&gt;
+&lt;a href=&#34;https://v.qq.com/x/cover/mzc00200772077h.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：B站&lt;br&gt;
+&lt;a href=&#34;https://www.bilibili.com/bangumi/play/ep474847&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-长安三万里&#34;&gt;3. 长安三万里&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道-1&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：优酷&lt;br&gt;
+&lt;a href=&#34;https://v.youku.com/v_show/id_XNTEzODI3NTk2OA==.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：爱奇艺&lt;br&gt;
+&lt;a href=&#34;https://www.iqiyi.com/v_19ru1v9h0w8.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-山河令&#34;&gt;4. 山河令&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道-2&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：优酷&lt;br&gt;
+&lt;a href=&#34;https://v.youku.com/v_show/id_XNTE4NDU4MDE3Mg==.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：腾讯视频&lt;br&gt;
+&lt;a href=&#34;https://v.qq.com/x/cover/mzc002005p9n4qy.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5-开端&#34;&gt;5. 开端&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道-3&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：腾讯视频&lt;br&gt;
+&lt;a href=&#34;https://v.qq.com/x/cover/mzc002005m2v8c0.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：优酷&lt;br&gt;
+&lt;a href=&#34;https://v.youku.com/v_show/id_XNTQxNzc4NDg5Mg==.html&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>经典电影资源合集</title>
+      <link>http://localhost:14310/movies/example_movie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:14310/movies/example_movie/</guid>
+      <description>精选经典电影资源，包含多种观看和下载渠道</description>
+    </item>
+    <item>
+      <title>资源合集</title>
+      <link>http://localhost:14310/anime/new_movie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:14310/anime/new_movie/</guid>
+      <description>&lt;h1 id=&#34;资源合集&#34;&gt;资源合集&lt;/h1&gt;
+&lt;h2 id=&#34;1-资源标题示例&#34;&gt;1. 资源标题示例&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：平台名称&lt;br&gt;
+&lt;a href=&#34;https://example.com/video1&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：网盘名称&lt;br&gt;
+&lt;a href=&#34;https://example.com/download1&#34;&gt;下载链接&lt;/a&gt;&lt;br&gt;
+提取码：xxxx&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-资源标题示例2&#34;&gt;2. 资源标题示例2&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道-1&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：平台名称&lt;br&gt;
+&lt;a href=&#34;https://example.com/video2&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：网盘名称&lt;br&gt;
+&lt;a href=&#34;https://example.com/download2&#34;&gt;下载链接&lt;/a&gt;&lt;br&gt;
+提取码：xxxx&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-资源标题示例3&#34;&gt;3. 资源标题示例3&lt;/h2&gt;
+&lt;h3 id=&#34;资源渠道-2&#34;&gt;资源渠道&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;渠道1：平台名称&lt;br&gt;
+&lt;a href=&#34;https://example.com/video3&#34;&gt;立即观看&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;渠道2：网盘名称&lt;br&gt;
+&lt;a href=&#34;https://example.com/download3&#34;&gt;下载链接&lt;/a&gt;&lt;br&gt;
+提取码：xxxx&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>欢迎访问资源站</title>
+      <link>http://localhost:14310/index/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:14310/index/welcome/</guid>
+      <description>这里是我们的资源导航页，提供各种影视资源下载链接</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <!-- 背景 -->
+  <rect width="800" height="450" fill="#333333"/>
+  
+  <!-- 胶片图案 -->
+  <g fill="#555555">
+    <rect x="50" y="50" width="700" height="350" rx="20"/>
+    <rect x="80" y="80" width="640" height="290" fill="#222222" rx="10"/>
+  </g>
+  
+  <!-- 胶片齿孔 -->
+  <g fill="#333333">
+    <rect x="30" y="70" width="20" height="40" rx="5"/>
+    <rect x="30" y="140" width="20" height="40" rx="5"/>
+    <rect x="30" y="210" width="20" height="40" rx="5"/>
+    <rect x="30" y="280" width="20" height="40" rx="5"/>
+    <rect x="30" y="350" width="20" height="40" rx="5"/>
+    
+    <rect x="750" y="70" width="20" height="40" rx="5"/>
+    <rect x="750" y="140" width="20" height="40" rx="5"/>
+    <rect x="750" y="210" width="20" height="40" rx="5"/>
+    <rect x="750" y="280" width="20" height="40" rx="5"/>
+    <rect x="750" y="350" width="20" height="40" rx="5"/>
+  </g>
+  
+  <!-- 播放图标 -->
+  <polygon points="350,170 450,225 350,280" fill="#e53e3e"/>
+  
+  <!-- 文字 -->
+  <text x="400" y="350" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffffff">暂无封面</text>
+</svg>
